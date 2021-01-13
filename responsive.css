@@ -1,8 +1,19 @@
 /* For Tablets */
 @media all and (max-width: 1000px) {
+
+  /*----- Header -----*/
+  
+  /*----- Content 1 -----*/
+
+  /*----- Content 2 -----*/
+  
+  /*----- Content 3 -----*/
+
   .card-container .card-1, .card-container .card-2, .card-container .card-3{
     width: 50%;
   }
+
+  /*----- Footer -----*/
 
   footer {
     text-align: center;
@@ -32,6 +43,15 @@
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
+
+  /*----- Header -----*/
+  
+  /*----- Content 1 -----*/
+
+  /*----- Content 2 -----*/
+  
+  /*----- Content 3 -----*/
+
   .card-container {
     display: flex;
     flex-direction: column;
@@ -42,10 +62,11 @@
     margin: 25px auto;
   }
 
+  /*----- Footer -----*/
+
   .footer-contact {
     margin-right: auto;
   }
-
 
   footer .fa {
     font-size: 20px;
