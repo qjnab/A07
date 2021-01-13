@@ -99,15 +99,16 @@ body {
 
 /*FOOTER*/
 footer {
+  width: 100%;
   padding-top: 30px;
   padding-bottom: 20px;
   background-color: #403e56;
   display: flex;
-  flex-direction: column;
 }
 
 .footer-contact {
   float: left;
+  margin-right: 400px;
 }
 
 .footer-contact p {

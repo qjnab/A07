@@ -12,6 +12,10 @@
     font-size: 20px;
   }
 
+  .footer-contact {
+    margin-right: 100px;
+  }
+
   .footer-contact p {
     font-size: 18px;
   }
@@ -24,10 +28,7 @@
     font-size: 12px;
   }
 
-
-  
 }
-/*snfdjbfjd*/
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
@@ -39,6 +40,10 @@
   .card-container .card-1, .card-container .card-2, .card-container .card-3{
     width: 100%;
     margin: 25px auto;
+  }
+
+  .footer-contact {
+    margin-right: auto;
   }
 
 
