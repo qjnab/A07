@@ -1,0 +1,60 @@
+/* For Tablets */
+@media all and (max-width: 1000px) {
+  .card-container .card-1, .card-container .card-2, .card-container .card-3{
+    width: 50%;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  footer .fa {
+    font-size: 20px;
+  }
+
+  .footer-contact p {
+    font-size: 18px;
+  }
+
+  .footer-logo img {
+    width: 150px;
+  }
+
+  .copyright {
+    font-size: 12px;
+  }
+
+
+  
+}
+/*snfdjbfjd*/
+
+/* For Smartphones */
+@media all and (max-width: 670px) {
+  .card-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card-container .card-1, .card-container .card-2, .card-container .card-3{
+    width: 100%;
+    margin: 25px auto;
+  }
+
+
+  footer .fa {
+    font-size: 20px;
+  }
+
+  .footer-contact p {
+    font-size: 14px;
+  }
+
+  .footer-logo img {
+    width: 100px;
+  }
+
+  .copyright {
+    font-size: 12px;
+  }
+}
