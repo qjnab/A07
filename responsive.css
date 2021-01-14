@@ -5,7 +5,56 @@
   
   /*----- Content 1 -----*/
 
+  .content-1 {
+    padding-top: 80px;
+  }
+
+  .container {
+    padding: 0 40px;
+    margin: 0 auto;
+  }
+
+  .heading-1 h1 {
+    font-weight: 600;
+    letter-spacing: 3px;
+    font-size: 24px;
+  }
+
+  .column-1 {
+    float: left;
+    width: 60%;
+  }
+
+  .column-2 {
+    width: auto;
+    height: auto;
+    left: 550px;
+  }
+
+  .picture {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+  }
+
+  .picture-bot {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    opacity: 0;
+  }
+
+  .description p {
+    padding-top: px;
+    margin: 0.5px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    font-size: 12px;
+  }
+
   /*----- Content 2 -----*/
+
+
   
   /*----- Content 3 -----*/
 
@@ -48,7 +97,51 @@
   
   /*----- Content 1 -----*/
 
+  .container {
+    padding: 0 30px;
+    margin: 0 auto;
+  }
+
+  .heading-1 h1 {
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+  }
+  .column-1 {
+    float: left;
+    width: 60%;
+  }
+
+  .column-2 {
+    width: auto;
+    height: auto;
+    left: 200px;
+  }
+
+  .picture {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+  }
+
+  .picture-bot {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    opacity: 0;
+  }
+
+  .description p {
+    padding-top: px;
+    margin: 0.5px;
+    letter-spacing: 0.8px;
+    font-weight: 300;
+    font-size: 8px;
+  }
+
   /*----- Content 2 -----*/
+
+
   
   /*----- Content 3 -----*/
 
